@@ -1,6 +1,6 @@
 package assignment.week1;
 
-class MaxSum {
+public class MaxSum {
 
     public static void main(String[] args) {
 

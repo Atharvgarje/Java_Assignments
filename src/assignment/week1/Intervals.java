@@ -1,7 +1,7 @@
 package assignment.week1;
 import java.util.Arrays;
 
-class FourSum {
+public class Intervals {
 
     public static void main(String[] args) {
 
