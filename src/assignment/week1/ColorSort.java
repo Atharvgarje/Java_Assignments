@@ -1,6 +1,6 @@
 package assignment.week1;
 
-class ColorSort {
+public class ColorSort {
 
     public static void main(String[] args) {
 
