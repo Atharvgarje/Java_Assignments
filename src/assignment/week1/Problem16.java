@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class Overlap {
+public class Problem16 {
 
     public static void main(String[] args) {
 

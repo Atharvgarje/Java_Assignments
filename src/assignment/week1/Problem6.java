@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class DiamondPattern {
+public class Problem6 {
 
 	public static void main(String[] args) {
 		int n=4;

@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class NumberPattern {
+public class Problem7 {
 	public static void main(String[] args) {
 		for(int i=5;i>0;i--)
 		{

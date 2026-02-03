@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class CompressString {
+public class Problem4 {
 	
 	public static void main(String[] args) {
 		String input="aaabbcccdd";
