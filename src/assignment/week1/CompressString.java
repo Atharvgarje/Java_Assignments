@@ -20,7 +20,8 @@ public class CompressString {
 				count=1;
 			}
 		}
-		System.out.println(compressed);
+		System.out.println(compressed
+				);
 		
 	}
 

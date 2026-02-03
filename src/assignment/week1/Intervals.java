@@ -6,7 +6,7 @@ public class Intervals {
     public static void main(String[] args) {
 
         int[] a = {1, 0, -1, 0, -2, 2};
-        int target = 0;
+        int target = -1;
         int n = a.length;
 
         Arrays.sort(a);
