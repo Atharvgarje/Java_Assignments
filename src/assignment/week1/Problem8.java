@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class SpiralMatrix {
+public class Problem8 {
 
 	public static void main(String[] args) {
 

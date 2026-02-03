@@ -2,7 +2,7 @@ package assignment.week1;
 
 import java.util.Scanner;
 
-public class LargestAndSmallest {
+public class Problem3 {
 	
 	public static void main(String[] args) {
 		Scanner sc= new Scanner(System.in);

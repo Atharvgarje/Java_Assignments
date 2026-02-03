@@ -1,6 +1,6 @@
 package assignment.week1;
 
-public class TwoSum {
+public class Problem12 {
 
     public static void main(String[] args) {
 

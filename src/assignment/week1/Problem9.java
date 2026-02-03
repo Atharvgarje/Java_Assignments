@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Vowels {
+public class Problem9 {
 
 	public static void main(String[] args) {
 

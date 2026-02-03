@@ -18,7 +18,7 @@ class Product {
     }
 }
 
-public class ProductApp {
+public class Problem10 {
 
     public static void main(String[] args) throws Exception {
 

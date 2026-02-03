@@ -1,7 +1,7 @@
 package assignment.week1;
 import java.util.Arrays;
 
-public class Intervals {
+public class Problem15 {
 
     public static void main(String[] args) {
 
