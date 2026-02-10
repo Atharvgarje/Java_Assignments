@@ -1,24 +1,25 @@
 package assignment.week1;
 
+
 import java.io.File;
 import java.util.Scanner;
-//class Product {
-//    int id;
-//    String name;
-//    double price;
-//    double gst;
-//    int availableQuantity;
-//
-//    Product(int id, String name, double price, double gst, int availableQuantity) {
-//        this.id = id;
-//        this.name = name;
-//        this.price = price;
-//        this.gst = gst;
-//        this.availableQuantity = availableQuantity;
-//    }
-//}
+class Product {
+    int id;
+    String name;
+    double price;
+    double gst;
+    int availableQuantity;
 
-public class Problem10 {
+    Product(int id, String name, double price, double gst, int availableQuantity) {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+        this.gst = gst;
+        this.availableQuantity = availableQuantity;
+    }
+}
+
+public class ProductApp {
 
     public static void main(String[] args) throws Exception {
 
@@ -94,3 +95,4 @@ public class Problem10 {
         System.out.println("\nTotal Amount Payable (with GST): Rs." + totalAmount);
     }
 }
+

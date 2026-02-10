@@ -3,7 +3,7 @@ package assignment.week1;
 public class Problem4 {
 	
 	public static void main(String[] args) {
-		String input="aaabbcccdd";
+		String input="whatare you doing";
 		
 		StringBuilder compressed= new StringBuilder();
 		int count=1;
