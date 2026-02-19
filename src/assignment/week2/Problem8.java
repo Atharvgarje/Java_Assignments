@@ -23,11 +23,15 @@ public class Problem8 {
 			u.username="Atharv";
 			u.email="atharv@gmail.com";
 			u.password="12345";
+			
 			User desUser;
+			
 			FileOutputStream fout=new FileOutputStream("src/doc/storeObject.txt");
 			ObjectOutputStream out=new ObjectOutputStream(fout);
+			
 			out.writeObject(u);
 			out.close();
+			
 			fout.close();
 			System.out.println("Object serialized");
 			

@@ -16,7 +16,7 @@ class BankAccount {
     class Transaction {
 
         void deposit(double amount) {
-            balance = balance + amount;   // accessing private variable
+            balance = balance + amount;  
             System.out.println("Deposited: " + amount);
         }
 
